@@ -1,0 +1,8 @@
+
+Blessed day to you <%= @user.name %>!
+
+Welcome to Peek'a-vee! Kindly click the link below to activate your account:
+
+<%= edit_account_activation_url(@user.activation_token, email: @user.email) %>
+
+

@@ -1,0 +1,14 @@
+== README
+
+This is my second project app from WDI which is called Peek-A-Verse.
+
+Technologies that will be included here are as follows:
+
+* Ruby on rails
+
+* Bootstrap
+
+* Sass
+
+* Javascript / JQuery
+
