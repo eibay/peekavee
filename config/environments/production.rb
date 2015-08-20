@@ -94,6 +94,6 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   # Added SSL : Force all access to app over SSL, use Strict-Transport-Security, and use secure cookies
-  config.force_ssl = true
-
+  # config.force_ssl = true
+  config.force_ssl = false
 end
